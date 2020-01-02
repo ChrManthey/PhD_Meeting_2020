@@ -1,0 +1,18 @@
+---
+title: ""
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<br>
+<br>
+<center># **4th Evo Eco PhD Meeting**
+<center>### Lutherstadt Wittenberg, 04.-06.03.2020
+<br>
+<center>![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/metamorphose_freeuse.JPG){width=200px}
+<br>
+<br>
+<center>### Organised by [Rolff group](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_rolff/index.html), [Armitage group](https://armitagelab.com/) and [McMahon group](https://mcmahonlab.com/)
+<center>![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/fu_logo.JPG){width=400px}
+<div style="text-align: justify">#### We are pleased to announce that the 4th Evo Eco PhD Student Meeting will be hosted by the Freie University Berlin, with invited speakers Peter Hammerstein, Stuart Wikby and Charlotte Rafaluk-Mohr

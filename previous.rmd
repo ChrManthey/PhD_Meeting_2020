@@ -1,0 +1,24 @@
+---
+title: ""
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<br>
+<br>
+<center>### 2019, [**3rd PhD student meeting in Bayreuth**](https://eireg.com/evol-ecol-phd-meeting-2019/)
+<center>#### Host-parasite interactions and ecological immunity
+<center>![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/Bayreuth.JPG){width=250px}
+<br>
+<br>
+<br>
+<center>### 2018, [**2nd PhD student meeting in Svatý Jan pod Skalou**](https://tudaz.net/press-and-public/meetings/svaty-jan-pod-skalou/)
+<center>#### Animal evolutionary biology
+<center>![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/Prague.JPG){width=250px}
+<br>
+<br>
+<br>
+<center>### 2017, [**1st PhD student meeting in Bautzen**](https://tudaz.net/press-and-public/meetings/phd/)
+<center>#### Conflict and cooperation – bridging evolution, ecology and immunology
+<center>![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/bautzen_meeting2.JPG){width=250px}

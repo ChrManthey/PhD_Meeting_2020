@@ -1,0 +1,54 @@
+---
+title: ""
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<br>
+<center>### [**Prof. Dr. Peter Hammerstein**](https://itb.biologie.hu-berlin.de/wiki/groups/peter/start)
+<center>#### Humboldt-Universität zu Berlin
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/Hammerstein.JPG){width=150px}
+</div>
+<br>
+<br>
+<div style="text-align: justify">
+Evolutionary theory across the life sciences, conflict and cooperation between and within organisms, endosymbiont-host interactions, economics in nature, evolutionary game theory, biological markets, evolution of decision mechanisms, evolutionary medicine/anthropology
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center>### [**Stuart Wigby**](http://www.wigbylab.com/)
+<center>#### University of Oxford
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/stu.JPG){width=150px}
+</div>
+<br>
+<br>
+<div style="text-align: justify">
+Evolutionary biology of sex and death, mainly using the fruit fly, *Drosophila melanogaster*, as a model organism. Sexual selection, sexual conflict, speciation, sperm competition, kin selection, immunity, life history and ageing
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center>### [**Dr. Charlotte Rafaluk-Mohr**](http://www.thekinglab.com/dr-charlotte-rafaluk-mohr/)
+<center>#### Freie Universität Berlin
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/Charlotte.JPG){width=150px}
+</div>
+<br>
+<br>
+<div style="text-align: justify">
+Host-defensive mutualist-parasite system, where *Caenorhabditis elegans* is the host, *Enterococcus faecalis* is the defensive mutualist and *Staphylococcus aureus* is the parasite. Experimental evolution to ask how parasites influence coevolutionary dynamics and outcomes between hosts and defensive mutualists and how defensive mutualists influence the outcomes and dynamics of host-parasite coevolution.
+</div>
+<br>
+<br>

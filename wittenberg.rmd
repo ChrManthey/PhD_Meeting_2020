@@ -1,0 +1,19 @@
+---
+title: ""
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<br>
+<br>
+<center>## **Getting to Wittenberg**
+<br>
+<br>
+<div style="text-align: justify">#### The PhD meeting will take place in Lutherstadt Wittenberg: Youth hostel Wittenberg (Castle youth hostel next to World Heritage), Schlossstrasse 14/15 in 06886 Wittenberg  
+</div>
+<br>
+<center>#### [Getting to the venue](https://www.jugendherberge.de/jugendherbergen/wittenberg-703/lage-und-anreise/)
+<br>
+<br>
+<center>![](/home/cmanthey/Schreibtisch/Github_files/EcoEvoPhDMeeting2020/EcoEvoPhDMeeting2020.github.io/pics/Wittenberg_freeuse.JPG){width=400px}
